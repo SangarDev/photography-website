@@ -1,5 +1,5 @@
 ## Live Demo
-You can view this project live here:https:
+You can view this project live here:https: https://sangardev.github.io/photography-website/
 # Photography Website
 
 A simple **HTML + CSS photography website** project with sidebar navigation and social icons.  
