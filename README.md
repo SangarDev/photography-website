@@ -19,5 +19,4 @@ Built to practice responsive layouts, sidebars, and icon integration.
 - FontAwesome Icons
 - Google Fonts
 
-## Folder Structure
 
